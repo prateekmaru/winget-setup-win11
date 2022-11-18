@@ -1,0 +1,139 @@
+{
+    "winget": {
+        "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+        "CreationDate": "2022-08-16T20:55:44.415-00:00",
+        "Sources": [
+            {
+                "Packages": [
+                    {
+                        "PackageIdentifier": "7zip.7zip"
+                    },
+                    {
+                        "PackageIdentifier": "Adobe.Acrobat.Reader.64-bit"
+                    },
+                    {
+                        "PackageIdentifier": "OBSProject.obs-amd-encoder"
+                    },
+                    {
+                        "PackageIdentifier": "AnyDeskSoftwareGmbH.AnyDesk"
+                    },
+                    {
+                        "PackageIdentifier": "Balena.Etcher"
+                    },
+                    {
+                        "PackageIdentifier": "whitewaterfoundry.fedora-remix-for-wsl"
+                    },
+                    {
+                        "PackageIdentifier": "Git.Git"
+                    },
+                    {
+                        "PackageIdentifier": "GitHub.cli"
+                    },
+                    {
+                        "PackageIdentifier": "Google.Chrome"
+                    },
+                    {
+                        "PackageIdentifier": "Google.Chrome.Beta"
+                    },
+                    {
+                        "PackageIdentifier": "KeePassXCTeam.KeePassXC"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.Office"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.Edge"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.EdgeWebView2Runtime"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.OneDrive"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.Teams"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2015+.x86"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VCRedist.2015+.x64"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VisualStudioCode"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.DotNet.DesktopRuntime.6"
+                    },
+                    {
+                        "PackageIdentifier": "agalwood.Motrix"
+                    },
+                    {
+                        "PackageIdentifier": "Mozilla.Firefox"
+                    },
+                    {
+                        "PackageIdentifier": "Mozilla.Thunderbird"
+                    },
+                    {
+                        "PackageIdentifier": "Nilesoft.Shell"
+                    },
+                    {
+                        "PackageIdentifier": "OpenJS.NodeJS"
+                    },
+                    {
+                        "PackageIdentifier": "OBSProject.OBSStudio"
+                    },
+                    {
+                        "PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.PowerShell"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.PowerToys"
+                    },
+                    {
+                        "PackageIdentifier": "PuTTY.PuTTY"
+                    },
+                    {
+                        "PackageIdentifier": "qBittorrent.qBittorrent"
+                    },
+                    {
+                        "PackageIdentifier": "Rustlang.Rustup"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.Teams"
+                    },
+                    {
+                        "PackageIdentifier": "Telegram.TelegramDesktop"
+                    },
+                    {
+                        "PackageIdentifier": "Canonical.Ubuntu.2004"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.VisualStudio.2022.Community"
+                    },
+                    {
+                        "PackageIdentifier": "VideoLAN.VLC"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.WindowsTerminal"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.WindowsTerminal.Preview"
+                    }
+                ],
+                "SourceDetails": {
+                    "Argument": "https://cdn.winget.microsoft.com/cache",
+                    "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                    "Name": "winget",
+                    "Type": "Microsoft.PreIndexed.Package"
+                }
+            }
+        ],
+        "WinGetVersion": "1.4.2161-preview"
+    },
+    "scoop": {
+        "apps": []
+    }
+}
