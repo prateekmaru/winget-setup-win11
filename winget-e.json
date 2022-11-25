@@ -18,10 +18,19 @@
                         "PackageIdentifier": "AnyDeskSoftwareGmbH.AnyDesk"
                     },
                     {
+                        "PackageIdentifier": "Azul.ZuluFX.18.JDK"
+                    },
+                    {
                         "PackageIdentifier": "Balena.Etcher"
                     },
                     {
+                        "PackageIdentifier": "Discord.Discord"
+                    },
+                    {
                         "PackageIdentifier": "whitewaterfoundry.fedora-remix-for-wsl"
+                    },
+                    {
+                        "PackageIdentifier": "Figma.Figma"
                     },
                     {
                         "PackageIdentifier": "Git.Git"
@@ -37,6 +46,9 @@
                     },
                     {
                         "PackageIdentifier": "KeePassXCTeam.KeePassXC"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.Office"
                     },
                     {
                         "PackageIdentifier": "Microsoft.Office"
@@ -109,9 +121,6 @@
                     },
                     {
                         "PackageIdentifier": "Canonical.Ubuntu.2004"
-                    },
-                    {
-                        "PackageIdentifier": "Microsoft.VisualStudio.2022.Community"
                     },
                     {
                         "PackageIdentifier": "VideoLAN.VLC"
