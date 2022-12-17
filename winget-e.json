@@ -75,7 +75,10 @@
                         "PackageIdentifier": "Microsoft.VisualStudioCode"
                     },
                     {
-                        "PackageIdentifier": "Microsoft.DotNet.DesktopRuntime.6"
+                        "PackageIdentifier": "Microsoft.DotNet.DesktopRuntime.7"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.DotNet.DesktopRuntime.7"
                     },
                     {
                         "PackageIdentifier": "agalwood.Motrix"
@@ -99,7 +102,7 @@
                         "PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
                     },
                     {
-                        "PackageIdentifier": "Microsoft.PowerShell"
+                        "PackageIdentifier": "Microsoft.PCManager"
                     },
                     {
                         "PackageIdentifier": "Microsoft.PowerToys"
@@ -130,6 +133,9 @@
                     },
                     {
                         "PackageIdentifier": "Microsoft.WindowsTerminal.Preview"
+                    },
+                    {
+                        "PackageIdentifier": "SomePythonThings.WingetUIStore"
                     }
                 ],
                 "SourceDetails": {
